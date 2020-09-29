@@ -1,0 +1,114 @@
+header a{
+    text-decoration: none;
+    color: black;
+  
+  }
+  
+  .btn1 {
+  
+  background-color: #e6e6e6;
+  border: none;
+  padding: 15px 25px;
+  font-size: 12px;
+  text-align: centre;
+   color: #666666;
+  display: inline-block;
+  margin-top: 250px;
+  position: absolute;
+  left: 45%;
+  margin-left: -50px;
+  }
+  .btn2 {
+  
+      background-color: #e6e6e6;
+      border: none;
+      padding: 15px 25px;
+      font-size:13px;
+      text-align: centre;
+      color: #666666;
+      display: inline-block;
+      margin-top: 250px;
+      position: absolute;
+    left: 55%;
+    margin-left: -60px;
+      }
+    .btn1 a {
+      text-decoration: none;
+      color: #666666
+    }
+    .btn2 a {
+      text-decoration: none;
+      color: #666666
+    }
+    ul.top {
+        font: arial;
+        font-size: 13px;
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+          
+        }
+        li{
+        display:inline;
+        }
+        li a {
+              text-align: center;
+          padding: 5px 8px;
+        }
+       
+      
+          
+      .top-right {
+      float: right;
+      font-size: 14px;
+      top:0;
+      right:0;
+      line-height: 30px;
+      padding: bottom 20px; 
+      }
+      .top-left {
+      float:left;
+      font-size: 14px;
+      padding: 8px 16px
+      
+      }
+      .search  {
+        width:100px;
+        overflow: visible;
+        height: 20px;
+        box-shadow:1px 1px 1px 1px grey;
+        border-color: #D0D3D4 ;
+        font-family: arial, sans-serif;
+        position: absolute;
+        left: 30%;
+        background-image:url(/search.svg);
+        background-repeat: no-repeat;
+        background-position: 10px center;
+        
+        background-size: 20px;
+        display:  inline-block;
+        width: 20%;
+        padding: 5px;
+        padding-left: 45px;
+        padding-right: 50px;
+        
+        border: 1px solid #dfe1e5;
+        font-size: 1em;
+        }
+        .tube {
+          
+          margin-top: 10%;
+          margin-left: 30%;
+                    
+        }
+        #container {
+         width: 500px;
+         float: right;
+        }        
+         .image1 {
+        float: right;
+	      top: 30%;
+        position: absolute;
+        
+        }
+        
